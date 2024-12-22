@@ -30,9 +30,9 @@ const RootLayout = () => {
     }
   }, [fontsLoaded, error]);
 
-  if (!fontsLoaded) {
-    return null;
-  }
+  // if (!fontsLoaded) {
+  //   return null;
+  // }
 
   if (!fontsLoaded && !error) {
     return null;
