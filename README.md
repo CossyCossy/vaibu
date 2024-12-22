@@ -1,5 +1,9 @@
 # Vaibu 🎉 - Your Event Discovery App
 
+[![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+
 ## About the App
 Vaibu (derived from Swahili slang for "Vibe") is a modern mobile application designed to connect people through events. Built with cutting-edge technology, Vaibu allows users to discover, explore, and engage with local events effortlessly.
 
